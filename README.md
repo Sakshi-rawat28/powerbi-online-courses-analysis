@@ -122,5 +122,3 @@ Longer courses do not always attract more viewers, suggesting that relevance and
 
 **Sakshi Rawat**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
