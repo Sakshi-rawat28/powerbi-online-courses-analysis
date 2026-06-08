@@ -94,12 +94,6 @@ Longer courses do not always attract more viewers, suggesting that relevance and
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning & Transformation
